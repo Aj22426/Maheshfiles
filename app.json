@@ -1,5 +1,5 @@
 {
-    "name": "JarvisBOT",
+    "name": "MAHESHFILES",
     "description": "When you going to send file on telegram channel this bot will save that in database, So you can search that easily in inline mode",
     "stack": "container",
     "keywords": [
@@ -15,8 +15,8 @@
       "index",
       "inline"
     ],
-    "website": "https://github.com/LazyDepveloper/wsFinderBOT",
-    "repository": "https://github.com/LazyDepveloper/wsFinderBOT",
+    "website": "https://github.com/Aj22426/Maheshfiles",
+    "repository": "https://github.com/Aj22426/Maheshfiles",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token.",
