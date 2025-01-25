@@ -12,7 +12,7 @@ Here is the help for my COMMANDS."""
     SOURCE_TXT = """<b>NOTE:</b>
 - This is our private BOT. so cant share source code
 <b>DEVS:</b>
-- <a href=https://t.me/LazyDepveloper>LazyDepveloper</a> 
+- <a href=https://t.me/moviesxyz_ofcl>moviesxyz_ofcl</a> 
 - © All right reserved 2023"""
     MANUELFILTER_TXT = """Help: <b>Filters</b>
 
